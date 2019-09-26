@@ -1,5 +1,5 @@
 ---
-topic: PHP Hello East US
+topic: PHP Hello World (Azure East US)
 languages:
   - php
 products:
@@ -9,7 +9,7 @@ products:
 
 # PHP Hello East US
 
-This sample demonstrates a tiny Hello East US PHP app for [Azure App Service](https://docs.microsoft.com/azure/app-service) and [Azure Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/)
+This sample demonstrates a tiny Hello World (Azure East US) PHP app for [Azure App Service](https://docs.microsoft.com/azure/app-service) and [Azure Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/)
 
 # Contributing
 
