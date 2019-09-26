@@ -1,8 +1,8 @@
 ---
-topic: PHP Hello World (Azure East US)
-languages:
+Topic: PHP Hello World (Azure East US)
+Languages:
   - php
-products:
+Products:
   - Azure App Service
   - Azure Web Apps
 ---
