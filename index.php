@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello Azure East US!";
+echo "Hello World (Azure East US)!";
